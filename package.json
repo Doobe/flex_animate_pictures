@@ -1,0 +1,27 @@
+{
+  "name": "flex_animate_layout",
+  "version": "1.0.0",
+  "description": "for react lazy_picture_layout",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Doobe/react-components.git"
+  },
+  "keywords": [
+    "layzy_picture_flex_animate"
+  ],
+  "author": "penghao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Doobe/react-components/issues"
+  },
+  "homepage": "https://github.com/Doobe/react-components#readme",
+  "dependencies": {
+    "react": "^16.4.0",
+    "react-lazyimg-component": "0.0.2",
+    "velocity-animate": "^1.5.1"
+  }
+}
